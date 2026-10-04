@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Nikola 👋
 
 ### I'm a Nikola
 
@@ -30,4 +30,4 @@
 
 ### GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&t
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niksata-ivanovw&show_icons=true&theme=dark)
