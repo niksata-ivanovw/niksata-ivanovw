@@ -1,9 +1,7 @@
 # Hi there, I'm Nikola 👋
 
-### I'm a Nikola
-
 - 💻 Currently working as Software Developer & IT Consultant
-- 🎓 I'm in 12th grade in High School of Mathematics Dr. Petar Beron Varna
+- 🎓 I'm in 12th grade in the High School of Mathematics Dr. Petar Beron Varna
 - 🏆 Currently studying Python and React Native in SoftUni
 - ⚡ Fun fact: I love to ride mountain bikes
 
