@@ -3,8 +3,8 @@
 ### I'm a Nikola
 
 - 💻 Currently working as Software Developer & IT Consultant
-- 🎓 I'm currently in 12th grade
-- 🏆 [Achievements / Certifications]
+- 🎓 I'm in 12th grade in High School of Mathematics Dr. Petar Beron Varna
+- 🏆 Currently studying Python and React Native in SoftUni
 - ⚡ Fun fact: I love to ride mountain bikes
 
 ---
@@ -22,7 +22,7 @@
 
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,cs,ps,postgres,html,css,django,react,vscode,git,github" />
+    <img src="https://skillicons.dev/icons?i=python,js,cs,ps,postgres,html,css,django,react,vscode,git,wordpress,github" />
   </a>
 </p>
 
